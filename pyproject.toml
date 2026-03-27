@@ -1,0 +1,12 @@
+[project]
+name = "user"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "backtrader>=1.9.78.123",
+    "numpy>=2.4.3",
+    "pandas>=3.0.1",
+    "vectorbt>=0.28.2",
+]
