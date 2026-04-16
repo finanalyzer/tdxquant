@@ -10,3 +10,10 @@ dependencies = [
     "pandas>=3.0.1",
     "vectorbt>=0.28.2",
 ]
+
+[build-system]
+requires = ["setuptools>=68.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+py-modules = ["tdxdata_test", "tqcenter"]
