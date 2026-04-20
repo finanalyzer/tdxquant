@@ -1,6 +1,6 @@
 [project]
 name = "TdxQuant"
-version = "0.1.1"
+version = "0.1.0"
 description = "通达信量化平台"
 readme = "README.md"
 requires-python = ">=3.13"
